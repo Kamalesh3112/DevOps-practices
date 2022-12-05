@@ -1,3 +1,5 @@
+## Git setup steplines
+
 pip install --upgrade pip -- pip new version
 git --version
 
@@ -5,7 +7,7 @@ For to generate ssh key in gitlab or any networking enviroments : ssh-keygen
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-**Git installation and repository setup**
+### **Git installation and repository setup**
 
 To install git :
         yum install git
